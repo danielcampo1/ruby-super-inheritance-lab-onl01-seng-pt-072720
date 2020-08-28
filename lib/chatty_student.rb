@@ -19,7 +19,7 @@ class ChattyStudent < Student
     super
     super
     
-    puts 
+    return
     "Pick me!
     Pick me!
     Pick me! 
