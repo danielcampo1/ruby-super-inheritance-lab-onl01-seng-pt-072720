@@ -18,8 +18,8 @@ class ChattyStudent < Student
     super
     super
     super
-    puts 
-    "Pick me!
+    
+    puts "Pick me!
     Pick me!
     Pick me! 
     Pick me! 
